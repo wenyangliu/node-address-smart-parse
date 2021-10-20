@@ -1,0 +1,15 @@
+{
+  "name": "node-address-smart-parse",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenyangliu/node-address-smart-parse.git"
+  },
+  "author": "wenyangliu",
+  "homepage": "https://github.com/wenyangliu/node-address-smart-parse",
+  "license": "MIT"
+}
